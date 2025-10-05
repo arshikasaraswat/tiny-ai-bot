@@ -14,3 +14,4 @@ This project was created as part of the **Intern Assignment: Build a Tiny AI-Pow
 ```bash
 git clone https://github.com/arshikasaraswat/tiny-ai-bot.git
 cd tiny-ai-bot
+For detailed development notes, see [project_journey.md](./project_journey.md)
